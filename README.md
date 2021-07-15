@@ -1,0 +1,2 @@
+# GjWeatherSample
+MVVM模式
